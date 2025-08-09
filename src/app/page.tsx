@@ -1,6 +1,6 @@
 "use client"
 
-import { FormEvent, useState } from "react";
+import { useState } from "react";
 import { TodoItem } from "./types/TodoItem";
 
 const Page = () => {
@@ -28,7 +28,7 @@ const Page = () => {
   }
 
   const toggleItem = (id: number) => {
-    let newList = [...list];
+    const newList = [...list];
 
     for(let i in newList) {
       if(newList[i].id === id) {
