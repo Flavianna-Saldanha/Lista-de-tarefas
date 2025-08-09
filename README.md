@@ -13,6 +13,7 @@ O objetivo é fornecer uma ferramenta prática, intuitiva e visualmente agradáv
 - React.js
 - Next.js 
 - Tailwind CSS
+- TypeScript
 
 ## 🌟 Funcionalidades  
 
@@ -28,6 +29,7 @@ Caso tenha interesse em conversar sobre projetos, parcerias ou oportunidades, en
 
 - **Email**: flaviannasaldanhadev@gmail.com  
 - **LinkedIn**: https://www.linkedin.com/in/flavianna-saldanha/
+- **Site do projeto**: https://lista-de-tarefas-three-delta.vercel.app/
 
 ---
 
